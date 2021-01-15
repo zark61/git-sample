@@ -6,3 +6,4 @@ Commit me
 Add New File
 Add new Line
 Add new rebase Line
+Add line commit 4
